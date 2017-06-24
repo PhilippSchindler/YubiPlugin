@@ -1,4 +1,5 @@
 Keepass/*
+*.kdbx
 !Keepass/Readme.md
 
 
