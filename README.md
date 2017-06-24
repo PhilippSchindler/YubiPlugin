@@ -18,7 +18,7 @@ When creating a new Keypass database (or changing the master password of an exis
 Follow the steps below to install YubiPlugin and the required libaries from Yubico.
 
 ### YubiPlugin
-1. Download the ``YubiPlugin.plgx`` file from TODO. 
+1. Download the ``YubiPlugin.plgx`` file from https://github.com/PhilippSchindler/YubiPlugin/raw/master/YubiPlugin.plgx. 
 2. Copy the ``YubiPlugin.plgx`` file into the ``Plugin`` directory of your Keepass installation. Additional help for installing Keepass plugins is available at http://keepass.info/help/v2/plugins.html.
 
 ### Yubico Libraries
